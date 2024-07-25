@@ -48,4 +48,13 @@ We will be evaluating your submission based on:
 4. User Experience: Is the interface intuitive and responsive?
 5. Technical Choices: Can you explain and justify your technical decisions?
 
+## Instructions
+
+1. Fork this repository.
+2. Clone your forked repository.
+3. Create a new branch with your name.
+4. Complete the exercise within the time limit.
+5. Push your changes to your forked repository.
+6. Create a pull request to this repository with your changes.
+
 Good luck!
